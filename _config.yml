@@ -1,0 +1,28 @@
+name: brand
+favicon: null
+layout_spectrum: 0.8189531299285591
+typography_spectrum: 0.559237445006147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1225284228567034
+  lightness: 0.11146625690162182
+  saturation: 0.8424077928066254
+  rhythmicContrast: 0.33833200321532786
+purpose: []
