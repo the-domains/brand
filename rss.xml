@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[brand]]></title>
+        <description><![CDATA[brand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 18:05:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Historical perspective
+Every historical stage has given birth to a distinct perspective on compensation and incentives, and to very different practices. 
+Red Organizations
+In the Red paradigm, the prerogative of the boss should be to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
+Amber Organizations
+In the Amber paradigm, salary is fixed, and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
+Orange Organizations
+In the Orange paradigm, there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, if they reflect people’s merits and contributions.
+Green Organizations
+The Green paradigm believes in cooperation as much as in competition, individual incentives make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
+Teal Organizations
+Teal Organizations exhibit the following general measures:
+People set their own salaries, with guidance from their peers.
+There are no individual or team incentives, as incentives are seen to distract people from their inner motivation, and to skew behaviors.
+While not attempting to create an egalitarian pay structure, it seems that in many organizations, people strive to reduce the sometimes extreme pay disparities witnessed in some sectors today. A special focus is to ensure that the lowest paid make enough to satisfy basic needs. Whenever possible, workers on hourly wages switch to monthly salaries. 
+</p>]]></description>
+            <link>undefinedfff83380-db7f-4317-8497-ccc63a9fa1ba/index.html</link>
+            <guid isPermaLink="false">fff83380-db7f-4317-8497-ccc63a9fa1ba</guid>
+            <pubDate>Tue, 12 Jan 2016 18:05:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
